@@ -4,7 +4,7 @@
 
 You're working on your Tunr app and you encounter this error. What does it mean and where would you go first to address it?  
 
-[INSERT SCREENSHOT]  
+![Rails error](http://imgur.com/9NR7XNT)  
 
 ```text
 Your answer...
