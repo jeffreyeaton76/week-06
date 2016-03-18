@@ -44,10 +44,6 @@ Assuming our Tunr Rails app (1) has a Song model that belongs to an Artist model
 [] new_song_path( @song ) 
 ```
 
-```text
-Your answer...
-```
-
 ### Question 5
 
 Where are (a) cookies and (b) session variables stored? (Select one answer)  
