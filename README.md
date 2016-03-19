@@ -71,7 +71,7 @@ This code would make most sense as a...
 - ...helper method.
 
 ```text
-This question is about *displaying* data retrieved from the database, so its code would belong in a helper method. 
+This question is about *displaying* data retrieved from the database, so its code would belong in a helper method.
 ```
 
 ### Question 7
@@ -80,7 +80,6 @@ You clone yet another Tunr repo. Put the following commands in the correct order
 
 ```
 $ git clone git@github.com:ga-wdi-exercises/moar-tunr.git
-$ rails new . -d postgresql
 $ bundle install
 $ rake db:drop
 $ rake db:create
